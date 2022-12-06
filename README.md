@@ -1,6 +1,6 @@
 # example.python_test_env
-Array
-List
-String
-and
+/n Array
+/nList
+/nString
+/n and
 much more
